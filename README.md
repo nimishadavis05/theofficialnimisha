@@ -9,11 +9,10 @@
 - 🌱 I’m currently learning DataScience & AI
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 Reach me on theofficialnimisha@gmail.com
-
-Connect withme
-instagram : https://instagram.com/theofficialnimisha
-Linkedin : https://www.linkedin.com/in/theofficialnimisha/
-Facebook : https://facebook.com/theofficialnimisha
+- Connect withme
+- instagram : https://instagram.com/theofficialnimisha
+- Linkedin : https://www.linkedin.com/in/theofficialnimisha/
+- Facebook : https://facebook.com/theofficialnimisha
 
 <!---
 theofficialnimisha/theofficialnimisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
