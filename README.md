@@ -8,7 +8,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning DataScience,AI,ML,DL
 - 💞️ I’m looking to collaborate on new technologies
-- 📫 Reach me on theofficialnimisha@gmail.com
+- 📫 Reach me on iamofficialnimisha@gmail.com
 - Connect withme
 - instagram : https://instagram.com/theofficialnimisha
 - Linkedin : https://www.linkedin.com/in/theofficialnimisha/
