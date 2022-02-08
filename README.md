@@ -6,7 +6,6 @@
 
 - 👋 Hi, I’m @theofficialnimisha- Fullstack Engineer | Frontend | Backend | Python - Django
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning DataScience,AI,ML,DL
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 Reach me on iamofficialnimisha@gmail.com
 - Connect withme
